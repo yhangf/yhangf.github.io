@@ -47,7 +47,7 @@ span {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
-    margin: 0; 
+    margin: -2; 
 }
 
 h1, h2, h3, h4, h5 {
@@ -191,7 +191,7 @@ progress::-moz-progress-value {
     margin: 0 auto;
     margin-top:20px;
     margin-bottom: 10px;
-    background-image:url('https://avatars0.githubusercontent.com/u/21081491?v=3&s=460');
+    background-image:url('https://github.com/Fenghuapiao/Fenghuapiao.github.io/blob/master/resume/static/image/me.jpg');
     background-size: 120%;
     background-position:center;
     border-radius:50%;
@@ -206,7 +206,7 @@ progress::-moz-progress-value {
     margin: 0 auto;
 
     width: 1050px;
-    height: 1550px;
+    height: 2000px;
     background-color: white;
 
 }
@@ -239,7 +239,7 @@ progress::-moz-progress-value {
 
 .info-header .unit-remove {
     float: right;
-    margin-left: 20px;
+    margin-left: px;
     visibility: hidden;
     cursor: pointer;
 
@@ -247,7 +247,7 @@ progress::-moz-progress-value {
 
 .info-header .item-add {
     float: right;
-    margin-left: 20px;
+    margin-left: px;
     margin-right: 2px;
     visibility: hidden;
     cursor: pointer;
