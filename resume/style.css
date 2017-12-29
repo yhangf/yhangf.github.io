@@ -91,22 +91,6 @@ nav a:hover {
     color: #373737;
 }
 
-nav li:last-child a {
-    background: #d24d21;
-    background: -webkit-gradient(linear, 0 0, 0 100%, from(#d54e21), to(#b4421c));
-    background: -webkit-linear-gradient(top, #d54e21, #b4421c);
-    background: -moz-linear-gradient(top, #d54e21, #b4421c);
-    background: -o-linear-gradient(top, #d54e21, #b4421c);
-    background: linear-gradient(top, #d54e21, #b4421c);
-    color: #fff;
-    text-shadow: #b5421c 1px 1px 1px;
-}
-
-nav li:last-child a:hover {
-    color: #ffac90;
-    text-shadow: #666 1px 1px 1px;
-}
-
 div {
     width: 800px;
     margin: 0 auto;
